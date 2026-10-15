@@ -5,7 +5,7 @@ Name: Muhammad Umer
 Major: Computer Programming
 
 ## Skills
-- Programming: Python, HTML, CSS, JavaScript
+- Programming: Java, C++, Python, JavaScript
 - Web Development: Front-End Development
 - Git: Learning Git and GitHub
 
